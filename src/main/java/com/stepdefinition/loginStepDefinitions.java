@@ -23,7 +23,7 @@ public class loginStepDefinitions {
 
    // LoginPage loginPage=new LoginPage();
 
-
+    //Initialize browser
     @Given("^I launch URL$")
     public static void initializeBrowser()
     {
